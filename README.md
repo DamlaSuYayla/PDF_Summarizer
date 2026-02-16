@@ -1,4 +1,5 @@
 ================== PDF SUMMARIZER - AI Assistant ====================
+<img width="2398" height="1346" alt="Ekran görüntüsü 2026-02-16 123636" src="https://github.com/user-attachments/assets/d6b53f7c-81c2-4c44-b005-d05eb2db031d" />
 
 An AI-powered PDF summarization tool using the LED (Longformer Encoder-Decoder)
 model with a Gradio web interface.
