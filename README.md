@@ -1,4 +1,4 @@
-PDF SUMMARIZER - AI Assistant
+#PDF SUMMARIZER - AI Assistant
 
 
 An AI-powered PDF summarization tool using the LED (Longformer Encoder-Decoder)
