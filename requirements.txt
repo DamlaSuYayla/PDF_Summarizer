@@ -1,0 +1,25 @@
+# PDF Summarization System - Requirements
+# =========================================
+
+# Web Interface
+gradio>=4.0.0
+
+# Deep Learning & Transformers
+torch>=2.0.0
+transformers>=4.35.0
+accelerate>=0.24.0
+datasets>=2.14.0
+
+# PDF Processing
+PyMuPDF>=1.23.0
+
+# NLP
+nltk>=3.8.0
+
+# Metrics (for training evaluation)
+rouge-score>=0.1.2
+sacrebleu>=2.3.0
+bert-score>=0.3.13
+
+# Text-to-Speech
+gTTS>=2.4.0

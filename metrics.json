@@ -1,0 +1,8 @@
+{
+  "ROUGE-1": 0.2912549292507539,
+  "ROUGE-L": 0.15798485902870035,
+  "BLEU": 0.02706906814241589,
+  "BERTScore_F1": 0.841509222984314,
+  "timestamp": "2025-12-14T01:04:55.204793",
+  "model_path": "C:\\Users\\damla\\OneDrive\\Masaüstü\\PdfSummarizer\\checkpoints\\final_model"
+}
